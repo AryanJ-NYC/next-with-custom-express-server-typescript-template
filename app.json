@@ -1,0 +1,6 @@
+{
+  "name": "Next.js Express & TypeScript",
+  "description": "A barebones Vercel Next.js Custom Express Server written in TypeScript",
+  "repository": "https://github.com/AryanJ-NYC/next-with-custom-express-server-typescript-template",
+  "keywords": ["nextjs", "express", "typescript"]
+}
